@@ -1,0 +1,9 @@
+{
+  "SECRET_KEY": "",
+  "DB_NAME": "",
+  "DB_USER": "",
+  "DB_PASSWORD": "",
+  "EMAIL_PASSWORD": "",
+  "FE_URL": "",
+  "BE_URL": ""
+}
